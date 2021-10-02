@@ -30,7 +30,7 @@ James Owen - $ 1000.00
 Bryan Andersen - $ 1720.00
 May Brown - $ 1200.00
 
-#ENG
+# ENG
 
 My first project with Polymorphism in OO (JAVA). A simple project, to receive data from employees of a company. Some can be outsourced and have specific characteristics for the allocation of their salaries. Thus, I use Polymorphism to create two Employees (Employee and OutsourcedEmployee) with their own characteristics for the program to receive this data.
 
